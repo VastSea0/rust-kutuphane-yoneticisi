@@ -12,5 +12,7 @@ pub struct Book {
     pub id: i32
 }
 
-fn main() {}
+fn main() {
+    // pass
+}
 
